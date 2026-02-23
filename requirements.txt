@@ -1,0 +1,12 @@
+# Core Dependencies
+Flask==3.0.0
+flask-cors==4.0.0
+opencv-python==4.12.0.88
+ultralytics==8.3.243
+Pillow==11.0.0
+numpy==2.2.1
+
+# Optional Dependencies
+matplotlib==3.10.0
+pandas==2.2.0
+seaborn==0.13.0
