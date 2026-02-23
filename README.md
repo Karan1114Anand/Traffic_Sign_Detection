@@ -182,6 +182,7 @@ Project Link: https://github.com/Karan1114Anand/Traffic_Sign_Detection.git
 - [Flask](https://flask.palletsprojects.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Material Icons](https://fonts.google.com/icons)
+- [Traffic Signs Detection using YOLOv8 - Kaggle Notebook](https://www.kaggle.com/code/pkdarabi/traffic-signs-detection-using-yolov8/notebook) by pkdarabi
 
 ---
 
