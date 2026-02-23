@@ -28,8 +28,8 @@ Real-time traffic sign detection web application powered by YOLOv8 and Flask.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/traffic-sign-detection.git
-cd traffic-sign-detection
+git clone https://github.com/Karan1114Anand/Traffic_Sign_Detection.git
+cd Traffic_Sign_Detection
 ```
 
 ### 2. Install Dependencies
@@ -172,9 +172,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Karan Anand [LinkedIn](https://www.linkedin.com/in/karan24anand?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-Project Link: [https://github.com/yourusername/traffic-sign-detection](https://github.com/yourusername/traffic-sign-detection)
+Project Link: https://github.com/Karan1114Anand/Traffic_Sign_Detection.git
 
 ## 🙏 Acknowledgments
 
