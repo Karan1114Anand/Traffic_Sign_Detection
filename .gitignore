@@ -36,25 +36,10 @@ env/
 *~
 .DS_Store
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
-# Model files (large files)
-*.pt
-*.pth
-*.onnx
-*.weights
-*.h5
-train*/
-runs/
-models/traffic_sign_model/
 
-# Dataset
-dataset/
-car/
-*.rar
-*.zip
+
+
 
 # Logs
 *.log
@@ -78,6 +63,9 @@ Thumbs.db
 
 # Kiro specs
 .kiro/
+
+# Dataset folder
+car/
 
 # Documentation temp files
 *.md~
