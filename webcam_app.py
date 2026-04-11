@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load the trained model
-MODEL_PATH = r'D:\GuruJI\YOLO\train4\weights\best.pt'
+MODEL_PATH = 'train4/weights/best.pt'
 model = YOLO(MODEL_PATH)
 
 # Global variables
